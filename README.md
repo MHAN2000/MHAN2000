@@ -1,6 +1,6 @@
-[![MasterHead](https://raw.githubusercontent.com/MHAN2000/MHAN2000/refs/heads/main/banner.png)](your GitHub link)
-
 ## Hi there 👋
+
+[![MasterHead](https://raw.githubusercontent.com/MHAN2000/MHAN2000/refs/heads/main/banner.png)](your GitHub link)
 
 Here are some ideas to get you started:
 
