@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![MasterHead](https://raw.githubusercontent.com/MHAN2000/MHAN2000/refs/heads/main/banner.png)](your GitHub link)
+[![MasterHead](https://raw.githubusercontent.com/MHAN2000/MHAN2000/refs/heads/main/banner.png)](https://github.com/MHAN2000)
 
 Here are some ideas to get you started:
 
