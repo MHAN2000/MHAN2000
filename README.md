@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 
 [![MHAN2000's GitHub stats](https://github-readme-stats.vercel.app/api?username=MHAN2000&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MHAN2000&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MHAN2000&theme=onedark&title=-Issues)](https://github.com/ryo-ma/github-profile-trophy)
