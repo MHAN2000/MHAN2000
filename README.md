@@ -8,4 +8,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: mhan@gmail.com mariohu.almaguerna@gmail.com @drahlark
 - 😄 Pronouns: He/His
 
-[![MHAN2000's GitHub stats](https://github-readme-stats.vercel.app/api?username=MHAN2000)](https://github.com/anuraghazra/github-readme-stats)
+[![MHAN2000's GitHub stats](https://github-readme-stats.vercel.app/api?username=MHAN2000&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
