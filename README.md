@@ -3,7 +3,7 @@
 [![MasterHead](https://raw.githubusercontent.com/MHAN2000/MHAN2000/refs/heads/main/banner.png)](https://github.com/MHAN2000)
 
 - 🔭 I’m currently working on MHAN CMS
-- 🌱 I’m currently learning AWS, Kubernetes and Linux
+- 🌱 I’m currently learning AWS, Kubernetes, Terraform, GitHub Actions, Linux
 - 💬 Ask me about Web Development
 - 📫 How to reach me: mhan@gmail.com mariohu.almaguerna@gmail.com @drahlark
 - 😄 Pronouns: He/His
